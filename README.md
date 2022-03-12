@@ -8,6 +8,9 @@ My focus was designing the Employee screen and Customer screen and inserting the
 I also was helping with fixing bugs and adding queries for the database.
 
 GROUP:
+
 https://github.com/nicalh
 
 https://github.com/Raniel-Flores
+
+https://github.com/KhanNoman
